@@ -12,7 +12,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido" />
 <h5> Meus projetos </h5>
 
-<p align="left">
+<p align="center">
   
 - 📌 [UI/UX Projects](https://dribbble.com/JCandido) 
 
