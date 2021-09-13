@@ -7,8 +7,8 @@
 </p>
 <hr>
 <img align="right" width="150px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626843462797.png"/>
-<img align="center" width="250px"src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido" />
-<img  align="center"width="250px" src="https://github-readme-stats.vercel.app/api?username=lucasjcandido&show_icons=true&locale=en" alt="lucasjcandido" />
+<img align="right" width="250px"src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido" />
+<img  align="right"width="250px" src="https://github-readme-stats.vercel.app/api?username=lucasjcandido&show_icons=true&locale=en" alt="lucasjcandido" />
 <p align="left>
 <h5> Meus projetos </h5>
 
