@@ -7,6 +7,7 @@
 </p>
 <hr>
 <img align="right" width="250px"src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido"/>   
+<br>
 <img  align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=lucasjcandido&show_icons=true&locale=en" alt="lucasjcandido"/>
 <p align="left">     
 <h5> Meus projetos </h5>
