@@ -7,10 +7,10 @@
 </p>
 <hr>  
 <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api?username=lucasjcandido&show_icons=true&locale=en" alt="lucasjcandido"/>
-<p align="right">
-<img width="210px"src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido"/>    
+<img align="right" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido"/>    
 <h5> Meus projetos </h5>
-
+<p align="left">
+  
 - 📌 [UI/UX Projects](https://dribbble.com/JCandido) 
 
 - 📌 [Web Applications](https:) 
