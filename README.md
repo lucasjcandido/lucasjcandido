@@ -9,6 +9,7 @@
 <img align="left" width="150px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626843462797.png"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasjcandido&show_icons=true&locale=en&layout=compact" alt="lucasjcandido" />
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=lucasjcandido&show_icons=true&locale=en" alt="lucasjcandido" />
+<p align="center">
 <h5> Meus projetos </h5>
 
 - 📌 [UI/UX Projects](https://dribbble.com/JCandido) 
@@ -23,6 +24,7 @@
 
 - 📌 [Outros projetos](https:)
 
+</p>
 <br>
 <h3>Entre em Contato:</h3>
 <p align="left">
